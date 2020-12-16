@@ -20,7 +20,7 @@ class Aluno {
   }
   
   function criarAlunos(){
-      var alunos = [new Aluno('rafael', 'simoes', 8, 8.5), new Aluno('claudinei', 'roberto', 7, 2), new Aluno('cidinei', 'pamela', 7, 2)];	
+      var alunos = [new Aluno('Vinicius', 'Augusto', 8, 8.5), new Aluno('robson', 'paulo', 7, 2), new Aluno('Dina', 'dantas', 7, 2)];	
 
       alunos.forEach(mostrarAlunos);
   }
